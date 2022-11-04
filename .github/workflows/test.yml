@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:    
     - uses: actions/checkout@v2
-    - uses: internal_action_repo@main
+    - uses: gayatri-test-org1/internal_action_repo@main
